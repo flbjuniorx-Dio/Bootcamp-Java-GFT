@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\flbju\Dio\Bootcamp-Java-GFT\.metadata\.plugins\org.eclipse.jdt.core
+1602128660.index
+943989422.index
+1865797976.index

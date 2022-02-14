@@ -1,0 +1,34 @@
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {
+    "comments": "", 
+    "custemail": "mirandajose@gmail.com", 
+    "custname": "Jose Miranda", 
+    "custtel": "6199998999", 
+    "delivery": "", 
+    "size": "large", 
+    "topping": [
+      "bacon", 
+      "onion"
+    ]
+  }, 
+  "headers": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9", 
+    "Accept-Encoding": "gzip, deflate", 
+    "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6", 
+    "Cache-Control": "max-age=0", 
+    "Content-Length": "133", 
+    "Content-Type": "application/x-www-form-urlencoded", 
+    "Host": "httpbin.org", 
+    "Origin": "http://httpbin.org", 
+    "Referer": "http://httpbin.org/forms/post", 
+    "Upgrade-Insecure-Requests": "1", 
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43", 
+    "X-Amzn-Trace-Id": "Root=1-62098966-01c643c632391ca62602930c"
+  }, 
+  "json": null, 
+  "origin": "189.6.32.116", 
+  "url": "http://httpbin.org/post"
+}

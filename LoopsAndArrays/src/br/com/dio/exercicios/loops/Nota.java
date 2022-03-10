@@ -1,3 +1,5 @@
+package br.com.dio.exercicios.loops;
+
 import java.util.Scanner;
 
 public class Nota {

@@ -25,7 +25,7 @@ public class Main {
         System.out.printf("Valor solicitado: R$ %.2f", valorEmprestimo);
         System.out.println();
         System.out.println("Prazo: " + numeroParcelas);
-        System.out.printf("Taxa de Juros: %.2f%%", taxa);
+        System.out.printf("Taxa de Juros: %.2f %%", taxa);
         System.out.println();
         System.out.printf("Valor total: R$ %.2f", montante);
         System.out.println();

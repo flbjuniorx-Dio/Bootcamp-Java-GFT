@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp-Java-GFT.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp-Java-GFT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Debug/Debug.iml" filepath="$PROJECT_DIR$/Debug/Debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoopsAndArrays/LoopsAndArrays.iml" filepath="$PROJECT_DIR$/LoopsAndArrays/LoopsAndArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
     </modules>
